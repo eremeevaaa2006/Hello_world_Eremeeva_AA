@@ -1,0 +1,64 @@
+age_years:
+Percentile 25 (Q1):	3.0 kg
+Median 50 (Q2):	4.7 kg
+Percentile 75 (Q3):	6.0 kg
+Percentile 90:	7.0 kg
+Percentile 95:	8.1 kg
+Max:	12.0 kg
+
+weight_kg:
+Percentile 25 (Q1):	50.5 kg
+Median 50 (Q2):	65.8 kg
+Percentile 75 (Q3):	86.0 kg
+Percentile 90:	106.9 kg
+Percentile 95:	123.1 kg
+Max:	139.7 kg
+
+length_cm:
+Percentile 25 (Q1):	130.3 kg
+Median 50 (Q2):	150.1 kg
+Percentile 75 (Q3):	164.8 kg
+Percentile 90:	185.5 kg
+Percentile 95:	195.7 kg
+Max:	210.0 kg
+
+shoulder_height_cm:
+Percentile 25 (Q1):	72.4 kg
+Median 50 (Q2):	80.4 kg
+Percentile 75 (Q3):	87.3 kg
+Percentile 90:	94.8 kg
+Percentile 95:	98.2 kg
+Max:	106.8 kg
+
+tusk_length_cm:
+Percentile 25 (Q1):	7.3 kg
+Median 50 (Q2):	9.5 kg
+Percentile 75 (Q3):	13.4 kg
+Percentile 90:	17.7 kg
+Percentile 95:	19.0 kg
+Max:	25.0 kg
+
+litter_size:
+Percentile 25 (Q1):	0.0 kg
+Median 50 (Q2):	5.0 kg
+Percentile 75 (Q3):	6.0 kg
+Percentile 90:	7.0 kg
+Percentile 95:	7.5 kg
+Max:	9.0 kg
+
+health_score:
+Percentile 25 (Q1):	63.8 kg
+Median 50 (Q2):	75.0 kg
+Percentile 75 (Q3):	88.0 kg
+Percentile 90:	99.0 kg
+Percentile 95:	100.0 kg
+Max:	100.0 kg
+
+territory_ha:
+Percentile 25 (Q1):	2.9 kg
+Median 50 (Q2):	4.1 kg
+Percentile 75 (Q3):	5.7 kg
+Percentile 90:	6.9 kg
+Percentile 95:	7.6 kg
+Max:	8.8 kg
+
